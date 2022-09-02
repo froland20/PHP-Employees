@@ -6,3 +6,5 @@ Ez egy olyan projekt aminek a segítségével be tudunk olvasni adatokat az adat
 Az oldalon kiválasztva az adott dolgozót megnyilik egy új PHP oldal (update.php), ahol lehetőségünk van modosítani a dolgózok adatait, aktuális beosztását, aktuális fizetését, illetve az aktuális osztályát.
 
 Lehetőség van a dolgozók törlésére a kívánt sort kiválasztva megnyilik a delete.php fájl, ahol adatokat átadva tuduk őket törölni.
+
+Az oldal megfelelő működéséhez szükséges telepíteni az employees adatbázist: https://dev.mysql.com/doc/employee/en/
