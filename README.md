@@ -8,3 +8,8 @@ Az oldalon kiválasztva az adott dolgozót megnyilik egy új PHP oldal (update.p
 Lehetőség van a dolgozók törlésére a kívánt sort kiválasztva megnyilik a delete.php fájl, ahol adatokat átadva tuduk őket törölni.
 
 Az oldal megfelelő működéséhez szükséges telepíteni az employees adatbázist: https://dev.mysql.com/doc/employee/en/
+
+##Képek
+![Dolgozói tábla](https://i.imgur.com/fV2N31p.png)
+![Dolgozó szerkesztése](https://i.imgur.com/lgFhdum.png)
+![Dolgozó törlése](https://i.imgur.com/syWC5y8.png)
