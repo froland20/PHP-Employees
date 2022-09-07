@@ -4,7 +4,7 @@ Import from database, edit table in php
 ## Tartalomjegyzék
 
 - [Áttekintés](#attekintes)
-- [Képek](#kepek)
+- [Képek a projektről](#kepek)
 
 ## Áttekintés
 
@@ -16,7 +16,7 @@ Lehetőség van a dolgozók törlésére a kívánt sort kiválasztva megnyilik 
 
 Az oldal megfelelő működéséhez szükséges telepíteni az employees adatbázist: https://dev.mysql.com/doc/employee/en/
 
-## Képek
+## Képek a projektről
 ![Dolgozói tábla](https://i.imgur.com/fV2N31p.png)
 ![Dolgozó szerkesztése](https://i.imgur.com/lgFhdum.png)
 ![Dolgozó törlése](https://i.imgur.com/syWC5y8.png)
