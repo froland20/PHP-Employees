@@ -3,10 +3,10 @@ Import from database, edit table in php
 
 ## Tartalomjegyzék
 
-- [Áttekintés](#attekintes)
+- [AA](#attekintes)
 - [Képek a projektről](#kepek)
 
-## Áttekintés
+## AA
 
 Ez egy olyan projekt aminek a segítségével be tudunk olvasni adatokat az adatbázisból és egy táblázatba elmenteni azokat az adatokat feltételek szerint.
 
